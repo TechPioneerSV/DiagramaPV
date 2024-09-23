@@ -906,11 +906,13 @@
             <mxRectangle width="160" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjzVZwlM1joES1NhEGrs-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tjzVZwlM1joES1NhEGrs-226" target="tjzVZwlM1joES1NhEGrs-26">
+        <mxCell id="tjzVZwlM1joES1NhEGrs-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tjzVZwlM1joES1NhEGrs-226" target="tjzVZwlM1joES1NhEGrs-26">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="505" as="sourcePoint" />
+            <mxPoint x="-570" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-530" y="505" />
-              <mxPoint x="-530" y="260" />
+              <mxPoint x="-520" y="505" />
+              <mxPoint x="-520" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -972,7 +974,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzVZwlM1joES1NhEGrs-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tjzVZwlM1joES1NhEGrs-226" target="tjzVZwlM1joES1NhEGrs-314">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="505" />
+              <mxPoint x="-520" y="805" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
