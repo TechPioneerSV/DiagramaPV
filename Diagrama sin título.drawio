@@ -907,7 +907,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzVZwlM1joES1NhEGrs-313" value="Compras" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="760" width="180" height="140" as="geometry">
+          <mxGeometry x="-480" y="720" width="180" height="140" as="geometry">
             <mxRectangle x="-190" y="20" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -967,12 +967,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-520" y="505" />
-              <mxPoint x="-520" y="805" />
+              <mxPoint x="-520" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tjzVZwlM1joES1NhEGrs-352" value="Detalle_Compra" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="760" width="180" height="180" as="geometry">
+          <mxGeometry x="-110" y="670" width="180" height="180" as="geometry">
             <mxRectangle x="-190" y="20" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1057,8 +1057,9 @@
         <mxCell id="tjzVZwlM1joES1NhEGrs-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tjzVZwlM1joES1NhEGrs-314" target="tjzVZwlM1joES1NhEGrs-356" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-300" y="805" />
               <mxPoint x="-220" y="805" />
-              <mxPoint x="-220" y="835" />
+              <mxPoint x="-220" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1066,9 +1067,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-480" y="75" />
-              <mxPoint x="-480" y="720" />
-              <mxPoint x="-240" y="720" />
-              <mxPoint x="-240" y="860" />
+              <mxPoint x="-480" y="700" />
+              <mxPoint x="-240" y="700" />
+              <mxPoint x="-240" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
